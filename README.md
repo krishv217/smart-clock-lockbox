@@ -8,8 +8,7 @@ Solenoid lock: https://www.amazon.com/dp/B0C793X21J
 Other components needed: 5V relay, 9V battery, misc. wiring.
 
 Clock/Weather display page
-![Clock Page](IMG_2971.jpg)
-
+![Clock Page](1F9A40AA-B783-4323-89D5-245EC56DFFDB_1_201_a.jpeg)
 
 Pinpad page
 ![Pinpad Page](IMG_2972.jpg)
