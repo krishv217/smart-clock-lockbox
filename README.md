@@ -17,7 +17,7 @@ Solenoid lock: https://www.amazon.com/dp/B0C793X21J
 
 Other components needed: 5V relay, 9V battery, misc. wiring.
 
-Directions:
+Programming Directions:
 1. In clockLock.ino replace your Wifi credentials and lat/longitude
 2. Using the Arduino IDE, upload clockLock.ino to the ESP32
 
