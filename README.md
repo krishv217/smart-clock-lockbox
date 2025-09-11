@@ -15,3 +15,11 @@ Pinpad page
 
 Inside layout
 ![Inside](image.png)
+
+
+Directions:
+1. In clockLock.ino replace your Wifi credentials and lat/longitude
+2. Using the Arduino IDE, upload clockLock.ino to the ESP32
+
+Electrical directions:
+1. 
